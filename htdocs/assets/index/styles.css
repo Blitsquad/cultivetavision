@@ -1,0 +1,35 @@
+/* Bouton Se connecter */
+.btn-connect {
+    background-color: rgb(8, 151, 0);
+    color: white;
+}
+
+/* Bouton Se déconnecter */
+.btn-disconnect {
+    background-color: red;
+    color: white;
+}
+
+/* Bouton S'enregistrer */
+.btn-register {
+    background-color: rgb(107, 107, 107);
+    color: white;
+}
+
+.btn-color {
+    background-color: rgb(255, 255, 255);
+    color: rgb(255, 0, 0);
+}
+
+/* Bouton Mon Profil */
+.btn-color2 {
+    background-color: rgb(84, 84, 84);
+    color: white;
+}
+
+.btn-primary-gray button a {
+    text-decoration: none;
+}
+
+
+/* zsodfkreioksioézi */
